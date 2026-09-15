@@ -3,7 +3,7 @@ title: "Worklog"
 date: "`r Sys.Date()`"
 weight: 1
 chapter: false
-pre: " <b> I. </b> "
+pre: " <b> 1. </b> "
 ---
 
 {{% notice warning %}}
