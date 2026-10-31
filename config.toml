@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://thanh-nghi.github.io/fcj-workshop/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
